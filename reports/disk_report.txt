@@ -1,0 +1,18 @@
+===================================================
+		DISK MONITOR REPORT
+===================================================
+Date:		 Wed Nov  4 01:28:37 PM CET 2026
+DISK INFORMATION:
+Filesystem                 Size  Used Avail Use% Mounted on
+//nas1.inf.ug.edu.pl/home  9.9T  3.1T  6.8T  31% /home/wnaczk
+STATUS: NORMAL
+Message: Disk space usage is within safe limits.
+===================================================
+		DISK MONITOR REPORT
+===================================================
+Date:		 Wed Nov  4 01:29:52 PM CET 2026
+DISK INFORMATION:
+Filesystem                 Size  Used Avail Use% Mounted on
+//nas1.inf.ug.edu.pl/home  9.9T  3.1T  6.8T  31% /home/wnaczk
+STATUS: NORMAL
+Message: Disk space usage is within safe limits.
